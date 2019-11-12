@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics Education, University of Michian, in progress
+* M.S. in GitHub, Cal Poly, 2015
+* B.S. in Mathematics, Cal Poly, 2013
 
 Work experience
 ======

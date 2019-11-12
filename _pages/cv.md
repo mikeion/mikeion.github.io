@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics Education, University of Michian, in progress
-* M.S. in GitHub, Cal Poly, 2015
-* B.S. in Mathematics, Cal Poly, 2013
+* Ph.D. in Mathematics Education, University of Michian, in progress
+* M.S. in Mathematics, California Polytechnic State University, 2015
+* B.S. in Mathematics, California Polytechnic State University, 2013
 
 Work experience
 ======

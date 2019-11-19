@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Developing Practical Measures to Support the Improvement of Geometry for Teachers Courses"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-11-15-developing_practical_measures
+date: 2019-11
+venue: 'Proceedings of the forty-first annual meeting of the North American Chapter of the International Group for Psychology of Mathematics Education.
+paperurl: 'http://academicpages.github.io/files/pmena_2019_ionetal'
+citation: 'Ion, M., Herbst, P., Margolis, C., Milewski, A., Ko, I. (2019). "Developing practical measures to support the improvement of geometry for teachers courses." <i> Proceedings of the forty-first annual meeting of the North American Chapter of the International Group for Psychology of Mathematics Education</i>'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ion, M., Herbst, P., Margolis, C., Milewski, A., Ko, I. (2019). "Developing practical measures to support the improvement of geometry for teachers courses." <i> Proceedings of the forty-first annual meeting of the North American Chapter of the International Group for Psychology of Mathematics Education</i>.

@@ -321,3 +321,4 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-slate
+minimal_mistakes_skin: "sunrise"

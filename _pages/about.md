@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my Website! To be updated soon.
+![Los Osos](images/lososos.jpg)
 

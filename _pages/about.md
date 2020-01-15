@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-![Los Osos](images/lososos.jpg)
+![Los Osos](../images/lososos.jpg)
 

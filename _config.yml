@@ -92,7 +92,7 @@ author:
    uri              : "files/cv_ion_jan2020.pdf"
   bitbucket        :
   cv               : [CV]({{mikeion.com/cv}}/files/cv_ion_jan2020.pdf)
-  cv               : "files/cv_ion_jan2020.pdf"
+  #cv               : "files/cv_ion_jan2020.pdf"
   codepen          :
   dribbble         :
   flickr           :

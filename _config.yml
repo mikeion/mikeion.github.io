@@ -89,7 +89,7 @@ author:
   googlescholar    : 
   email            :  "mikeion@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "../files/cv_ion_jan2020.pdf"
+  uri              : "../files/ion_cv_jan2020.pdf"
   bitbucket        :
   cv               : [CV]({{mikeion.com}}/files/cv_ion_jan2020.pdf)
   #cv               : "files/cv_ion_jan2020.pdf"

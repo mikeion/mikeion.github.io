@@ -91,7 +91,8 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "ion_cv_jan2020.pdf"
   bitbucket        :
-  cv               : [CV]({{mikeion.com/cv}}/files/ion_cv_jan2020.pdf)
+  #cv               : [CV]({{mikeion.com/cv}}/files/ion_cv_jan2020.pdf)
+  cv               : "ion_cv_jan2020.pdf"
   codepen          :
   dribbble         :
   flickr           :
